@@ -42,5 +42,5 @@
   (ex. 프로필 사진 & Situation 아이콘 이용)
 - Popup
 
-## Extra
-![LiKo](https://i.imgur.com/hJU6wH0.jpg)
+## Screenshot
+![TestExample](https://github.com/Avantgarde95/LiKo/blob/master/TestExample.png)
